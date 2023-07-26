@@ -1,0 +1,4 @@
+# 项目排除路径
+/wang-admin/target/
+/wang-blog/target/
+/wang-freamwork/target/

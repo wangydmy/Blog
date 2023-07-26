@@ -1,0 +1,24 @@
+{
+  "name" : "WangArticleTag",
+  "comment" : "文章标签关联表",
+  "fullColumn" : [ {
+    "name" : "articleId",
+    "comment" : null,
+    "type" : null,
+    "shortType" : null,
+    "custom" : false,
+    "ext" : { }
+  }, {
+    "name" : "tagId",
+    "comment" : null,
+    "type" : null,
+    "shortType" : null,
+    "custom" : false,
+    "ext" : { }
+  } ],
+  "pkColumn" : null,
+  "otherColumn" : null,
+  "savePackageName" : "com.wang",
+  "savePath" : "./wang-freamwork/src/main/java/com/wang",
+  "saveModelName" : "wang-freamwork"
+}
